@@ -17,6 +17,7 @@ echo 'Showing Mounted File System Now:'
 ls
 echo 'Done'
 ```
+NOTE: THIS SCRIPT ASSUMES THAT THE FILES SYSTEM IS NTFS
 
 # HOW TO USE
 
