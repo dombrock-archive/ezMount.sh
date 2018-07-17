@@ -2,6 +2,6 @@
 
 Copy this file to your home folder.
 
-Change its permisions to make it executable with sudo chmod 700 easyMount.sh
+Change its permisions to make it executable with sudo chmod 700 ezMount.sh
 
-Execute the script with . ./easyMount.sh
+Execute the script with . ./ezMount.sh
