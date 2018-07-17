@@ -1,7 +1,13 @@
 # HOW TO USE
 
-Copy this file to your home folder.
+1) Copy this file to your home folder.
 
-Change its permisions to make it executable with sudo chmod 700 ezMount.sh
+2) Change its permisions to make it executable with:
 
-Execute the script with . ./ezMount.sh
+```bash
+sudo chmod u+x ezMount.sh
+```
+3) Execute the script with:
+```bash
+./ezMount.sh
+```
